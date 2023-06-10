@@ -1,4 +1,5 @@
-![newwwwww](https://github.com/goyallalit/goyallalit/assets/120114206/2e71e07d-286e-4e90-a5ce-6f4c27e43910)
+
+![new anal](https://github.com/goyallalit/goyallalit/assets/120114206/81fe47d3-5b2b-4676-b7d8-fba3872d5f99)
  
 ### Hey 👋 there! I'm Lalit Goyal 
 
@@ -9,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working in TCS.
 - 🌱 I am known for my Data Analysis, it's interpertation, manipulation and visualization and data story telling skills.
 - 👯 I’m looking to collaborate on ...   
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...        ![newwwwww](https://github.com/goyallalit/goyallalit/assets/120114206/2e71e07d-286e-4e90-a5ce-6f4c27e43910)                      
 - 💬 Ask me about SQL, Power BI, Excel, Python.
 - 📫 How to reach me: lalitgoyal31@gmail.com
 - 😄 Pronouns: ...

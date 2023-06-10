@@ -1,4 +1,4 @@
-![newimage](https://github.com/goyallalit/goyallalit/assets/120114206/fe26be1b-60f2-462b-a748-01c4f95e4420)
+                 ![newimage](https://github.com/goyallalit/goyallalit/assets/120114206/fe26be1b-60f2-462b-a748-01c4f95e4420)
  
 ### Hey there! I'm Lalit Goyal 👋
 

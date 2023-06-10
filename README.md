@@ -1,5 +1,6 @@
 
 ![new anal](https://github.com/goyallalit/goyallalit/assets/120114206/81fe47d3-5b2b-4676-b7d8-fba3872d5f99)
+![recent](https://github.com/goyallalit/goyallalit/assets/120114206/adacfe37-1d2c-4061-934c-742c8ed548cd)
  
 ### Hey 👋 there! I'm Lalit Goyal 
 

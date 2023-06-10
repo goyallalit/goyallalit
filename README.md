@@ -9,11 +9,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in TCS.
 - 🌱 I am known for my Data Analysis, it's interpertation, manipulation and visualization and data story telling skills.
-- 👯 I’m looking to collaborate on ...   
-- 🤔 I’m looking for help with ...                            
 - 💬 Ask me about SQL, Power BI, Excel, Python.
 - 📫 How to reach me: lalitgoyal31@gmail.com
-- 😄 Pronouns: ...
+- 👯 I’m looking for new opportunity. 
  
 ## Languages and Tools 
 ![sql](https://github.com/goyallalit/goyallalit/assets/120114206/bbfc554c-24e0-4716-bdb7-ee795ae80dd4)

@@ -2,7 +2,7 @@
  
 ### Hey 👋 there! I'm Lalit Goyal 
 
-About me  
+![man-technologist_1f468-200d-1f4bb](https://github.com/goyallalit/goyallalit/assets/120114206/8d723aaf-d581-41bb-bc54-40e8303c962f) About me  
 
 Here are some ideas to get you started:
 

@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lalitgoyal31@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![sql](https://github.com/goyallalit/goyallalit/assets/120114206/bbfc554c-24e0-4716-bdb7-ee795ae80dd4)
  

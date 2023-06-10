@@ -1,4 +1,4 @@
-(https://ibb.co/Qd88JX6)
+[chat application] (https://ibb.co/Qd88JX6)
 ### Hey there! I'm Lalit Goyal 👋
 
  A Passionate Data Analyst from India

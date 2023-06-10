@@ -1,6 +1,6 @@
-(![Uploading pexels-fauxels-3183153.jpg…]())
+![pexels-fauxels-3183153](https://github.com/goyallalit/goyallalit/assets/120114206/b7390de6-db65-4e22-a912-c883ea880694)
 ### Hey there! I'm Lalit Goyal 👋
-![Uploading pexels-fauxels-3183153.jpg…]()
+
  A Passionate Data Analyst from India
 
 Here are some ideas to get you started:

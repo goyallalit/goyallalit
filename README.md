@@ -1,4 +1,4 @@
-![pexels-fauxels-3183153](https://github.com/goyallalit/goyallalit/assets/120114206/b7390de6-db65-4e22-a912-c883ea880694)
+ ![pexels-fauxels-new](https://github.com/goyallalit/goyallalit/assets/120114206/fcec1bab-69cf-4589-b1e8-88163ccb15ab)
 ### Hey there! I'm Lalit Goyal 👋
 
  A Passionate Data Analyst from India

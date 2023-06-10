@@ -1,4 +1,4 @@
-![chat application](https://www.vecteezy.com/vector-art/5638564-illustration-isometric-concept-data-analysis-of-investment-business-company)
+(![Uploading pexels-fauxels-3183153.jpg…]())
 ### Hey there! I'm Lalit Goyal 👋
 ![Uploading pexels-fauxels-3183153.jpg…]()
  A Passionate Data Analyst from India

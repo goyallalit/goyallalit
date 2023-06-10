@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 ![sql](https://github.com/goyallalit/goyallalit/assets/120114206/bbfc554c-24e0-4716-bdb7-ee795ae80dd4)
 ![powerbi](https://github.com/goyallalit/goyallalit/assets/120114206/12cb653e-9ebc-4924-90ec-bc6a8594433c)
+![python](https://github.com/goyallalit/goyallalit/assets/120114206/5c7efcc2-3a0e-4098-8f8e-12f9d1e5ee61)
+![excel](https://github.com/goyallalit/goyallalit/assets/120114206/94197190-11f8-44bd-aaf7-19248b3e1649)
  

@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![sql](https://github.com/goyallalit/goyallalit/assets/120114206/bbfc554c-24e0-4716-bdb7-ee795ae80dd4)
+![powerbi](https://github.com/goyallalit/goyallalit/assets/120114206/12cb653e-9ebc-4924-90ec-bc6a8594433c)
  

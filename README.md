@@ -5,13 +5,12 @@
 
 ![man-technologist_1f468-200d-1f4bb](https://github.com/goyallalit/goyallalit/assets/120114206/8d723aaf-d581-41bb-bc54-40e8303c962f) About me  
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in TCS.
 - 🌱 I am known for my Data Analysis, it's interpertation, manipulation and visualization and data story telling skills.
 - 💬 Ask me about SQL, Power BI, Excel, Python.
 - 📫 How to reach me: lalitgoyal31@gmail.com
-- 👯 I’m looking for new opportunity. 
+- 👯 I’m looking for new exciting opportunity. 
  
 ## Languages and Tools 
 ![sql](https://github.com/goyallalit/goyallalit/assets/120114206/bbfc554c-24e0-4716-bdb7-ee795ae80dd4)

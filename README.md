@@ -1,7 +1,7 @@
-### Hi there 👋
+(https://ibb.co/Qd88JX6)
+### Hey there! I'm Lalit Goyal 👋
 
-<!--
-**goyallalit/goyallalit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ A Passionate Data Analyst from India
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: lalitgoyal31@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ 

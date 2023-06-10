@@ -1,4 +1,4 @@
-![chat application](https://ibb.co/Qd88JX6)
+![chat application]([https://ibb.co/Qd88JX6](https://ibb.co/Qd88JX6][img]https://i.ibb.co/4dssFJj/pexels-fauxels-3183153.jpg))
 ### Hey there! I'm Lalit Goyal 👋
 
  A Passionate Data Analyst from India
